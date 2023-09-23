@@ -10,7 +10,7 @@ int main(){
         cout<<"Type number here:";
         cin>>n;
         for (int j=0;j<=t;j++){}
-        if (n==2||n==1||n==0||n%j==0){
+        if (n==1||n==0||n%j==0){
             cout<<"not a prime number"<< endl;
         }
         else{
